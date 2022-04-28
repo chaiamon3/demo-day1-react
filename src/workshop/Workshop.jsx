@@ -1,10 +1,10 @@
-import WorkProps from "./WorkProps"
+import Assessment from "./Assessment"
 
 const Workshop = () => {
     return (
         <div>
             <h2>Workshop component</h2>
-            <WorkProps />
+            <Assessment />
         </div>
     )
 }
